@@ -15,7 +15,7 @@ const drawerStyles = {
   }
 }
 
-export default class OnusCliente extends Component {
+export default class Template extends Component {
   
   constructor(props, context) {
     super(props, context);
@@ -72,4 +72,4 @@ export default class OnusCliente extends Component {
 
 }
 
-AppRegistry.registerComponent('OnusCliente', () => OnusCliente);
+AppRegistry.registerComponent('Template', () => Template);
